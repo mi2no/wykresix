@@ -1,0 +1,1 @@
+Projekt aplikacji gromadzącej pomiary dowolnych kategorii. Realizowany w ramach przedmiotu Aplikacje Internetowe.
